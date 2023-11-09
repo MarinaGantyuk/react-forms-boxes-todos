@@ -1,0 +1,3 @@
+exports[`matches snapshot 1`] = `
+<div><div><div><form><div><label for="height">Height</label><input type="text" name="height" id="height" value=""></div><div><label for="width">Width</label><input type="text" name="width" id="width" value=""></div><div><label for="backgroundColor">Background Color</label><input type="text" name="backgroundColor" id="backgroundColor" value=""></div><button id="newBoxButton">Add a new box!</button></form></div></div></div>
+`
